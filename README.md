@@ -1,2 +1,2 @@
 # my-third-test
-my third test
+my third test for github repository
